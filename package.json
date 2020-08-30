@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-xlsx",
+  "version": "1.0.0",
+  "description": "Probando libreria para crear planillas de calculo XLSX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.16.6"
+  }
+}
